@@ -978,7 +978,7 @@ PostgreSQL and Spring Data JPA are used for persistent application data.
 
 **B.Tech Computer Science & Engineering**
 
-GitHub: [MrYash065-cmd](https://github.com/MrYash065-cmd)
+GitHub: [MrYash065-cmd](https://github.com/MrYash065)
 
 ---
 
